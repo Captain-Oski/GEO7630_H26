@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Lab 11 - MapLibreGL</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    
+    <!-- Feuille de style MapLibreGL (pour que la carte s'affiche correctement) -->
+    <link href="https://unpkg.com/maplibre-gl@5.2.0/dist/maplibre-gl.css" rel="stylesheet" />
+    
+    <style>
+        /* Style de base pour la page et la carte */
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        
+        /* Style des popups */
+        .mapboxgl-popup {
+            max-width: 300px;
+            font: 12px/20px 'Helvetica Neue', Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Conteneur HTML pour afficher la carte -->
+<div id="map"></div>
+
+<!--  Librairie MapLibreGL depuis un CDN -->
+<script src="https://unpkg.com/maplibre-gl@5.2.0/dist/maplibre-gl.js"></script>
+
+<!--  Fichier qui configure la carte (fond, contrôles, géolocalisation, etc.) -->
+<script src="...js"></script>
+
+<!--  Déclaration des sources et des couches à afficher -->
+<script src="....js"></script>
+
+<!--  Ajout dynamique des couches dans la carte (au chargement de celle-ci) -->
+<script src="....js"></script>
+
+<!--  Événements liés à la souris : clic, survol, popup, etc. -->
+<script src="....js"></script>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+
+<head>
+  <!--Ici on injecte le fichier css de stylisation maplibre gl -->
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"  />
+
+  <!--Ici on injecte le fichier css de stylisation de notre cru-->
+  <link rel="stylesheet" type="text/css" href="./lab9.css"  />
+
+
+  <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/geojson-extent@0.3.2/geojson-extent.min.js"></script>
+</head>
+
+
+<body>
+  <!--Ici on injecte une div qui ne servira a injecter notre carte -->
+  <div id="map"></div>
+
+  <!--Ici on injecte une div qui servira de conteneur pour notre menu -->
+  <div id="menu">
+    <!--Ici on injecte une div qui servira de conteneur enfant pour notre menu -->
+    <div id="boite">
+      
+      <h1>Titre</h1>
+      <h2>Sous-titre</h2>
+      
+      <!--Ici on injecte une div qui servira de conteneur pour notre bouton de chargement -->
+      <div id=bouton1>
+         <!--Ici on injecte un INPUT de type file qui servira de bouton pour charger le fichier -->
+         <!--Le bouton a une propriete accept qui nous permet de speficier  et forcer le type de fichier qui peut etre injecter,
+           dans notre cas GeoJSON-->
+        <input type="file" id="file" name="file"
+          accept="application/geo+json,application/vnd.geo+json,.geojson,application/json" />
+      </div>
+
+      <!--Ici on injecte une div qui servira de conteneur enfant pour notre bouton de zoom -->
+      <div id=bouton2>
+        <button id=zoomto>Zoomer données</button>
+      </div>
+
+      <!--Ici on injecte une div qui servira de conteneur enfant pour bouton de colorisation -->      
+      <div id=bouton3>
+        <button id=colorier>Colorier</button>
+      </div>
+
+    </div>
+  </div>
+</body>
+
+<!--Maintenant notre code HTML est initialise par l'ordinateur et la librairie maplibre gl est chargee en memoire-->      
+<!--Une fois que tout est beau c'est le moment d'injecter notre script qui contient nos fonctionnalites-->      
+
+<script type='text/javascript' src="./lab9.js"></script>
