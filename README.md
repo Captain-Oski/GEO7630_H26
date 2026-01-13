@@ -67,19 +67,19 @@ Le cours approfondit également les diverses formes de représentation adaptées
 | **13 janvier 2026** | Introduction, plan de cours, TP1                     | Présentation TP1                     |
 | **20 janvier 2026** | Perception visuelle, UI/UX, animations               | Accompagnement TP1                   |
 | **27 janvier 2026** | Visualisation des données vectorielles 2D            | Nettoyage, projection, visualisation |
-| **3 février 2026**  | Visualisation des données matricielles               | **Remise TP1** et Accompagnement TP2     |
+| **3 février 2026**  | Visualisation des données matricielles               | **Remise TP1** et Accompagnement TP2 |
 | **10 février 2026** | Données LiDAR et visualisation 3D (Jakarto, terrain) | Visualisation 3D                     |
 | **17 février 2026** | ArcGIS Online : Sémiologie, UI/UX                    | Création d'une webmap                |
 | **24 février 2026** | ArcGIS Online : Dashboards, Experience Builder       | TP2 en progression                   |
-| **3 mars 2026**     | Relâche                                         | —                                    |
-| **10 mars 2026**    |  Examen intra                                              | —                                    |
-| **17 mars 2026**    | Webmapping open source : OGC, GeoServer, PostGIS     | Diffusion de données — **Remise TP2**    |
+| **3 mars 2026**     | Relâche                                              | —                                    |
+| **10 mars 2026**    | Examen intra                                         | —                                    |
+| **17 mars 2026**    | Webmapping open source : OGC, GeoServer, PostGIS     | Diffusion de données — **Remise TP2**|
 | **24 mars 2026**    | Webmapping (Front-end) : HTML, CSS, JS, API          | Développement cartographique         |
 | **31 mars 2026**    | Webmapping (Back-end) : Docker, PostgreSQL/PostGIS   | Développement intermédiaire          |
 | **7 avril 2026**    | Concepts avancés de webmapping — Partie 1            | Visualisation avancée                |
 | **14 avril 2026**   | Concepts avancés de webmapping — Partie 2            | Préparation à la mise en production  |
 | **21 avril 2026**   | Révisions et aide au TP3                             | —                                    |
-| **28 avril 2026**   | Examen final                                         | Évaluation finale — **Remise TP3**       |
+| **28 avril 2026**   | Examen final                                         | Évaluation finale — **Remise TP3**   |
 
 
 ---

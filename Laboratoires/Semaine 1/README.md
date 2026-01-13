@@ -10,7 +10,7 @@
 
 ### **1. Créer un compte GitHub**
 1. Rendez-vous sur [GitHub](https://github.com/) et créez un compte si ce n'est pas déjà fait.
-2. Créez un nouveau repository (nommez-le `geo7630h25`).
+2. Créez un nouveau repository (nommez-le `geo7630h26`).
 3. Lancez VSCode sur votre ordinateur.
 4. Clonez le dépôt précédemment créé.
 

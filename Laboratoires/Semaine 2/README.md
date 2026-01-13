@@ -1,6 +1,7 @@
 # 📚 GEO 7630 - Laboratoire 2 : Jointure et traitement des données géospatiales
 s
 ## 🎯 Objectif du laboratoire
+
 Ce deuxième laboratoire vise à approfondir vos compétences dans **FME** et **QGIS**. Vous apprendrez à manipuler des données géospatiales plus complexes en combinant des données vectorielles et matricielles, et à réaliser une jointure spatiale pour répondre à une problématique simple.
 
 **Problématique** : Identifier la répartition des arbres par quartier dans la ville de Montréal.

@@ -15,8 +15,7 @@
 ## 📋 Contenu du cours
 
 ### **1. Présentation générale**
-- Structure du cours.
-- Attentes et méthodologie d'évaluation.
+-  [Cours 1 ](https://docs.google.com/presentation/d/183sP-NtJYaFRlpdRyT8RI0ZsQaR-7auaHHCvYmsGM94/edit?usp=sharing)
 
 ### **2. Mise en contexte**
 - Exploration des avancées technologiques dans la visualisation des données géographiques.
@@ -61,9 +60,9 @@
 
 ## 📝 Devoir
 - **Travail pratique 1 (TP1)** : 
-  - [Lien pour les explications](https://github.com/Captain-Oski/GEO7630_H25/tree/main/TPs/TP1)
+  - [Lien pour les explications](https://github.com/Captain-Oski/GEO7630_H26/tree/main/TPs/TP1)
   - **Thème** : Identification de la problématique et acquisition des données.
-  - **Date de remise** : **28 février 2026**.
+  - **Date de remise** : **3 février 2026**.
 3
 ---
 
