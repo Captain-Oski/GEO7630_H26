@@ -1,15 +1,8 @@
 # 📚 GEO 7630 - Cours 1 : Introduction
 
 ## 🗓️ Date
-- **7 janvier 2025**
+- **13 janvier 2026**
 
-## 📋 Sondage - Connaissance de la cohorte
-
-Veuillez remplir ce **sondage rapide** afin de mieux comprendre la composition de la cohorte et ajuster le contenu du cours.
-
-[📝 Accéder au sondage sur Office Forms](https://forms.office.com/r/aPr0D0CU4T)
-
----
 
 ## 🎯 Objectifs du cours 1
 1. Présentation du plan de cours et des objectifs généraux.
@@ -24,10 +17,6 @@ Veuillez remplir ce **sondage rapide** afin de mieux comprendre la composition d
 ### **1. Présentation générale**
 - Structure du cours.
 - Attentes et méthodologie d'évaluation.
-- Introduction aux principaux concepts :
-  - **Géoréférencement**.
-  - **Orthorectification**.
-  - **Projection et reprojection**.
 
 ### **2. Mise en contexte**
 - Exploration des avancées technologiques dans la visualisation des données géographiques.
@@ -74,8 +63,8 @@ Veuillez remplir ce **sondage rapide** afin de mieux comprendre la composition d
 - **Travail pratique 1 (TP1)** : 
   - [Lien pour les explications](https://github.com/Captain-Oski/GEO7630_H25/tree/main/TPs/TP1)
   - **Thème** : Identification de la problématique et acquisition des données.
-  - **Date de remise** : **28 janvier 2025**.
-
+  - **Date de remise** : **28 février 2026**.
+3
 ---
 
 ## ❓ Questions et échanges
